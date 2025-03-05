@@ -1,0 +1,7 @@
+#!/bin/sh
+
+#Author : TY
+#Script is as follows
+echo "what is the name of your mentor?"
+read PERSON 
+"echo, $PERSON"
